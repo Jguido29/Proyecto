@@ -1,0 +1,147 @@
+h1 {
+    text-align: center;
+    color: #000080; 
+}
+
+h2 {
+    text-align: right;
+     
+}
+
+.texcentro{
+    text-align: center;
+    
+}
+
+nav {
+    background-color: #f2f2f2;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    float: center;
+}
+
+nav li a {
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #ddd;
+}
+
+.contenedor-imagen img {
+    display: block;
+    margin: 0 auto;
+  }
+
+
+
+ .pag1{
+    font: size 5 px;;
+    color: hwb(207 2% 4%);
+    text-align: left;
+ } 
+
+.tex1{
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 2;
+    text-align: justify;
+    font-size: 20px;
+}
+
+footer {
+    position: relative;
+    width: 60%;
+    text-align: center;
+    margin-top: 300px; /* Espacio para separar la tabla del pie de página */
+  }
+
+.pieu{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    max-width: 100%; 
+    height: auto;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ddd; /* Borde suave entre las celdas */
+  }
+
+.filafoto{
+    width: 10%; /* Ajusta las imágenes al tamaño de la celda */
+    max-width: 1px; /* Limita el tamaño máximo de las imágenes */
+    border-radius: 0%; /* Bordes redondeados opcionales */
+}
+
+.contenedor-video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+
+.tex4{
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 2;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  label {
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+  }
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  textarea {
+    height: 150px;
+    resize: vertical;
+  }
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  button:hover {
+    background-color: #45a049;
+  }
+
+  .tex5{
+    text-align: center;
+    color: #000080; 
+  }
